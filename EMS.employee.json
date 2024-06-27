@@ -1,0 +1,12 @@
+[{
+  "_id": "EMP1631",
+  "emp_name": "shivam",
+  "emp_phone": {
+    "$numberLong": "8541253652"
+  },
+  "emp_emailId": "sagush223@gmail.com",
+  "emp_gender": "Male",
+  "employeeSalary": "8452145512",
+  "employeeRole": "Python",
+  "_class": "com.springboot.EmployeeManagementSystem.Employee"
+}]
